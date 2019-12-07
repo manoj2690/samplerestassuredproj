@@ -1,0 +1,41 @@
+{
+	"integer": 1,
+	"string": "value",
+	"boolean": false,
+	"null": null,
+	"float": 21.00,
+	"objects": {
+		"integer": 1,
+		"string": "value",
+		"boolean": false,
+		"null": null,
+		"float": 21.00,
+		"array of primitives": [
+			1,
+			2,
+			3,
+			"",
+			false,
+			null,
+			21.00
+		],
+		"array of objects": [
+			{
+			},
+			{
+				"integer": 1,
+				"string": "value",
+				"boolean": false,
+				"null": null,
+				"float": 21.00
+			},
+			{
+				"integer": 1,
+				"string": "value",
+				"boolean": false,
+				"null": null,
+				"float": 21.00
+			}
+		]
+	}
+}
